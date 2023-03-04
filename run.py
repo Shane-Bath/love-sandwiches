@@ -50,6 +50,5 @@ def validate_data(values):
 
     return True
 
- 
-
 data = get_sales_data()
+
